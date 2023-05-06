@@ -1,6 +1,6 @@
 import minimist from "minimist"; 
 import express from "express"; 
-import {rps, rpsls} from './lib/rpsls.js'; 
+import {rps, rpsls} from '../lib/rpsls.js'; 
 //express app 
 const app = express(); 
 //port 
